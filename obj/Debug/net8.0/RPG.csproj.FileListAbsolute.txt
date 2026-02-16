@@ -1,0 +1,15 @@
+/workspaces/class/bin/Debug/net8.0/RPG
+/workspaces/class/bin/Debug/net8.0/RPG.deps.json
+/workspaces/class/bin/Debug/net8.0/RPG.runtimeconfig.json
+/workspaces/class/bin/Debug/net8.0/RPG.dll
+/workspaces/class/bin/Debug/net8.0/RPG.pdb
+/workspaces/class/obj/Debug/net8.0/RPG.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/class/obj/Debug/net8.0/RPG.AssemblyInfoInputs.cache
+/workspaces/class/obj/Debug/net8.0/RPG.AssemblyInfo.cs
+/workspaces/class/obj/Debug/net8.0/RPG.csproj.CoreCompileInputs.cache
+/workspaces/class/obj/Debug/net8.0/RPG.sourcelink.json
+/workspaces/class/obj/Debug/net8.0/RPG.dll
+/workspaces/class/obj/Debug/net8.0/refint/RPG.dll
+/workspaces/class/obj/Debug/net8.0/RPG.pdb
+/workspaces/class/obj/Debug/net8.0/RPG.genruntimeconfig.cache
+/workspaces/class/obj/Debug/net8.0/ref/RPG.dll
